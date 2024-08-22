@@ -3,9 +3,9 @@
 #
 
 # Name of your site (displayed in the header)
-name: "Arnold's Blog"
+name: "Leo Liu's Blog"
 # Short bio or description (displayed in the header)
-description: "幻想中的美好技术分享世界"
+description: "我还在寻找，希望做一些有意义的事情"
 
 #
 # Flags below are optional
@@ -14,7 +14,7 @@ description: "幻想中的美好技术分享世界"
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://github.com/dotponder/dotponder.github.io/raw/master/images/avatar.png
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://github.com/dotponder/dotponder.github.io/raw/master/images/lemon.ico
+#favicon: https://github.com/dotponder/dotponder.github.io/raw/master/images/lemon.ico
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
@@ -42,10 +42,10 @@ footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
   zhihu:
-  email: arnoldchow@outlook.com
+  email: 
   facebook:
   flickr:
-  github: dotponder 
+  github: 
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -65,17 +65,17 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: 6eb551953fbc3116b8ff
-  clientSecret: e0d5c604194814a2325c2092eba0728bf589d0db
-  repo: dotponder.github.io
-  owner: dotponder
+  clientID: Ov23ctdbss9KJZ9GONj3
+  clientSecret: d769bc6062b4d919ecf20b0f1b3c7c54a4f82f8f
+  repo: riverandroad.github.io
+  owner: riverandroad
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 # google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://dotponder.github.io
+url: https://riverandroad.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
